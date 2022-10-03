@@ -1,0 +1,25 @@
+{
+"users": [
+    {
+      "email": "sagor@learnwithsumit.com",
+      "password": "$2a$10$tGMlJhQmAnx7f4cIVY55FOtIRV91wjRwBhdpaANPoslku3P/aAjPK",
+      "img": "https://avatars.dicebear.com/api/adventurer/sumit.svg",
+      "name": "Sumit Saha",
+      "id": 1
+    },
+    {
+      "email": "akash@learnwithsumit.com",
+      "password": "$2a$10$Oc6jXnK6/pbSqmkngo/b.OhsU3JRf4OU1h9QwIoqz8ZUpG/hgHq72",
+      "img": "https://avatars.dicebear.com/api/adventurer/akash.svg",
+      "name": "Akash Ahmed",
+      "id": 2
+    },
+    {
+      "email": "saad@learnwithsumit.com",
+      "password": "$2a$10$DVGOgchZrtvb1w6Pj.B0D.DXmHmoTsdy3oXfwF.02kE/pzJ7jyHqy",
+      "img": "https://avatars.dicebear.com/api/adventurer/saad.svg",
+      "name": "Saad Hasan",
+      "id": 3
+    }
+  ],
+}
