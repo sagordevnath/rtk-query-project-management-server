@@ -253,4 +253,36 @@
       "id": 5
     }
   ],
+"projects": [
+    {
+      "id": 1,
+      "teamId": 2,
+      "teamMembers": "saminisrar1@gmail.com-test26@gmail.com-test27@gmail.com-test28@gmail.com-test29@gmail.com",
+      "projectTitle": "This is a test project that will be tested initially and will be tested again initially",
+      "assignedTeam": "Design",
+      "projectStatus": "Ready",
+      "creatorImg": "https://avatars.dicebear.com/api/adventurer/samin.svg",
+      "createdAt": "Aug 10"
+    },
+    {
+      "teamId": 2,
+      "teamMembers": "saminisrar1@gmail.com-test26@gmail.com-test27@gmail.com-test28@gmail.com-test29@gmail.com",
+      "creatorImg": "https://avatars.dicebear.com/api/adventurer/test28.svg",
+      "createdAt": "Sep 27",
+      "assignedTeam": "Design",
+      "projectStatus": "Backlog",
+      "projectTitle": "Frontend Project",
+      "id": 2
+    },
+    {
+      "teamId": 9,
+      "teamMembers": "test28@gmail.com-saad@learnwithsumit.com-akash@learnwithsumit.com-test25@gmail.com",
+      "creatorImg": "https://avatars.dicebear.com/api/adventurer/test28.svg",
+      "createdAt": "Sep 27",
+      "assignedTeam": "Engineers",
+      "projectStatus": "Backlog",
+      "projectTitle": "Trello Project",
+      "id": 3
+    }
+  ]
 }
